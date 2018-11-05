@@ -30,18 +30,5 @@ Triplets:
 Same as PairSum, but with 3.
 
 Merge two Binary Trees:
-Input: 
-	Tree 1                     Tree 2                  
-          1                         2                             
-         / \                       / \                            
-        3   2                     1   3                        
-       /                           \   \                      
-      5                             4   7                  
-Output: 
-Merged tree:
-	     3
-	    / \
-	   4   5
-	  / \   \ 
-	 5   4   7
+sums each node of two trees, returns new tree. 
 
